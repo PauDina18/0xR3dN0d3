@@ -1,4 +1,15 @@
+<table>
+<tr>
+<td>
+  
 # TRAVEL INTELLIGENCE: CYNTHIA CABRERA
+
+</td>
+<td>
+<img src="images/surveillance_journey.jpg" width="200"/>
+</td>
+</tr>
+</table>
 
 ## Last Known Location
 **Medellín, Colombia**
@@ -48,4 +59,4 @@ Your findings will be used to direct field agents to her location. **Accuracy is
 
 The following image was captured as part of our investigation into Cynthia's movements. Carefully analyze the photo for clues about her location and activities.
 
-![Tracking Cynthia](images/surveillance_photo.jpg)
+![Tracking Cynthia](images/surveillance_activity.jpg)
