@@ -1,21 +1,32 @@
-# PERSONAL FILE: CYNTHIA CABRERA
+<table>
+<tr>
+<td>
 
-## Full Name
+# 🕵️ PERSONAL FILE: CYNTHIA CABRERA
+
+</td>
+<td>
+  <img src="images/CynthiaC.jpg" width="200px"/>
+</td>
+</tr>
+</table>
+
+## Full Name  
 **Cynthia Maria Cabrera**
 
-## Age
+## Age  
 **29**
 
-## Nationality
+## Nationality  
 **Venezuelan**
 
-## Occupation
+## Occupation  
 **Computer Scientist (formerly)**
 
-## Current Status
+## Current Status  
 **Active - Under Surveillance**
 
-## Last Known Location
+## Last Known Location  
 **Medellín, Colombia**
 
 ---
