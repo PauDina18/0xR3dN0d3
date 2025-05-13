@@ -8,8 +8,11 @@ Subsequent manual investigation on Instagram confirmed that **@cyntax_cyber** is
 
 The presence of stylized, minimalistic line art further supports the notion that the subject uses this account for artistic expression, potentially as a form of identity obfuscation or as part of her legitimate interests. The language used (“just a part-time artist”) suggests the account is not her main persona, which could imply compartmentalization of identities for operational security (OPSEC).
 
-![Cynthia_Instagram](images/lvl1_p1.jpg)
-![Cynthia_WhatsMyName](images/lvl1_p2.jpg)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="images/lvl1_p1.jpg" style="width: 33%;"/>
+    <img src="images/lvl1_p2.jpg" style="width: 65%;"/>
+</div>
+
 
 ### Flag Captured:
 The correct art-related alias **cyntax_cyber** was verified during a platform intelligence challenge and confirmed via visual evidence.
@@ -27,7 +30,7 @@ Additionally, another highlighted story mentions her intention to attend an **ar
 
 This information strongly suggests that the subject is planning an international trip. Given the destination, the most likely point of departure is **José María Córdova International Airport (IATA: MDE)**, located outside Medellín.
 
-![Cynthia_Instagram2](images/lvl1_p3.jpg)
+<img src="images/lvl1_p3.jpg" width="300"/>
 
 ### OSINT Insight:
 The subject is preparing for air travel, providing a critical opportunity for surveillance and movement tracking.
@@ -45,8 +48,12 @@ This suggests the subject may have a frequent presence in **El Poblado**, suppor
 
 Further supporting this hypothesis, challenge-based analysis verified the answer **"El Poblado"** as the district where Cynthia is most likely to engage in social activity. This is consistent with intelligence from the psychological profile indicating she often conducts her online operations from public cafés in the **El Poblado district**, where Wi-Fi access is prevalent.
 
-![Cynthia_Notes](images/lvl1_p4.jpg)
-![Cynthia_Following](images/lvl1_p5.jpg)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="images/lvl1_p4.jpg" style="width: 48%;"/>
+    <img src="images/lvl1_p5.jpg" style="width: 48%;"/>
+</div>
+
+
 
 ### Flag Captured:
 Verified Cynthia’s favored area for nightlife and connectivity is **El Poblado, Medellín**.
@@ -82,8 +89,13 @@ Cynthia uses darknet forums likely as her main communication method for exchangi
 
 ## 5. Answers
 
-![Answer_1](images/lvl1_q1.jpg)
-![Answer_2](images/lvl1_q2.jpg)
-![Answer_3](images/lvl1_q3.jpg)
-![Answer_4](images/lvl1_q4.jpg)
-![Answer_5](images/lvl1_q5.jpg)
+<img src="images/lvl1_q1.jpg" width="400"/>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="images/lvl1_q2.jpg" style="width: 48%;"/>
+    <img src="images/lvl1_q3.jpg" style="width: 48%;"/>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="images/lvl1_q4.jpg" style="width: 48%;"/>
+    <img src="images/lvl1_q5.jpg" style="width: 48%;"/>
+</div>
