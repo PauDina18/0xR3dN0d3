@@ -8,7 +8,7 @@ Identify the gate for flight **AVA234** arriving at **Mexico City Iternational A
 - Using **FlightAware**, we filtered the flight data for **AVA234** between **March 8, 2025**, and **March 10, 2025**, confirming the gate for departure on **March 9, 2025** at **MDE** and providing the gate number at **MEX**.
 - The possible **arrival gate** at **MEX** is **GATE E1**.
 
-<img src="images/lvl2_p1.jpg" width="300"/>
+<img src="images/lvl2_p1.jpg" width="400"/>
 
 ### Flag Captured:
 The confirmed **arrival gate** at **MEX** is **GATE E1**, which provides insight into Cynthia’s exact arrival point and potential points of surveillance.
@@ -26,7 +26,7 @@ Identify where Cynthia and her friend are meeting based on an image.
 - By performing a **reverse image search**, we identified the building as the **Faculty of Architecture** at the **National Autonomous University of Mexico (UNAM)**.
 - The architecture, design, and surroundings in the image strongly point to this specific location.
 
-<img src="images/lvl1_p3.jpg" width="300"/>
+<img src="images/lvl2_p2.jpg" width="350"/>
 
 ### Flag Captured:
 The identified **Faculty of Architecture** at **UNAM** is confirmed as a potential meeting spot for Cynthia.
@@ -45,8 +45,8 @@ Identify a restaurant near a pharmacy and near the intersection of L1, L7 and L9
 - **Overpass Turbo** was used to search for restaurants near pharmacies in the area, and the matching result was **La Burrita Marinera**.
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="images/lvl2_p3.jpg" style="width: 48%;"/>
-    <img src="images/lvl2_p4.jpg" style="width: 48%;"/>
+    <img src="images/lvl2_p3.jpg" style="width: 58%;"/>
+    <img src="images/lvl2_p4.jpg" style="width: 38%;"/>
 </div>
 
 ### Flag Captured:
@@ -55,7 +55,7 @@ The identified **restaurant** is **La Burrita Marinera**, located near the **Tac
 ### OSINT Insight:
 The restaurant, **La Burrita Marinera (La Burra)**, located near **Tacubaya**, could be a potential meeting point for Cynthia. The nearby metro lines make it a convenient and well-connected location for her activities.
 
-<img src="images/lvl2_p5.jpg" width="300"/>
+<img src="images/lvl2_p5.jpg" width="400"/>
 
 ---
 
@@ -88,7 +88,7 @@ Identify where Cynthia and her friend are meeting, based on the park info provid
 - The park is called **Parque de la Inmaculada Concepción** - **Contadero**, located in a western district of Mexico City. 
 - The name contains the religious concept **Contadero**, as required by the task.
 
-<img src="images/lvl2_p8.jpg" width="300"/>
+<img src="images/lvl2_p8.jpg" width="500"/>
 
 ### Flag Captured:
 The location has been confirmed as **Parque de la Inmaculada Concepción** in **Contadero**, aligning with the provided clues for her meeting point.
